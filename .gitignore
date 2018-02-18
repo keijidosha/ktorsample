@@ -1,4 +1,2 @@
-client/cio/.gradle
-client/cio/build
-client/apache/.gradle
-client/apache/build
+.gradle
+build
