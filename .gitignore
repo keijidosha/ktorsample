@@ -1,2 +1,11 @@
 .gradle
 build
+client/etc/put/php/hoge.bin
+client/post/2_byteArray/php/hoge.bin
+client/post/3_writeChannel/php/hoge.bin
+client/post/4_readChannel/php/hoge.bin
+client/post/6_byteArrayApache/php/hoge.bin
+client/post/7_writeChannelApache/php/hoge.bin
+client/post/7_writeChannelApache/php/hoge.jar
+client/post/7_writeChannelApache/php/This is your Dropbox.txt
+client/post/8_readChannelApache/php/hoge.bin
